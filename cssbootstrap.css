@@ -1,0 +1,87 @@
+
+.middle{
+    border:4px solid #cccccc;
+    margin-top:40px;
+    background-color: #ffffff;
+    padding:15px;
+}
+.navbar{
+    padding-left:170px;
+    padding-right:320px;
+}
+.textarea{
+    height:200px;
+}
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/ignasi_pattern_s.png");
+}
+.image{
+    height: 210px;
+    width:150px;
+    float:left;
+    /* padding:15px; */
+    margin-top:8px;
+    margin-right: 5px;
+    margin-bottom:3px;
+    display:inline;
+}
+h1{
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+h2{
+    color:#4aaaa5;
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+p{
+    font-size: 17px;
+    line-height: 1.5;
+    color:#777777; 
+    font-family: arial, helvetica neue, helvetica, sans-serif;
+}
+p a {
+    color:#008080;
+}
+.project {
+    position: relative;
+    float: left;
+    max-width: 274px;
+    margin: 20px 0 25px;
+    /* overflow: auto; */
+  }
+  
+.project {
+    margin-right: 10px;
+  }
+  
+  .project img{
+    width: 100%;
+    height: 205px;
+    border: 0 none;
+    opacity: 0.8;
+    position: relative;
+  }
+  
+  .h3 {
+    position: absolute;
+    bottom: 15px;
+    width:244px;
+    /* padding: 15px; */
+    margin-bottom: 30px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+  .site-footer{
+    position:fixed;
+    bottom:0px;
+    background-color:#666666;
+    border-top: 4px solid #008080;
+    width: 100%;
+    height:30px; 
+  } 
+  
